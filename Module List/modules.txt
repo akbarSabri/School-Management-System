@@ -1,0 +1,7 @@
+marks module
+attendence module
+add delete update student
+add delete update faculty
+class module
+fee report module
+character certificate
